@@ -193,7 +193,7 @@ def query():
 
 # Creo la función para el menú acerca de
 def about():
-    messagebox.showinfo("Acerca de...", "Código escrito por Martin Medina")
+    messagebox.showinfo("Acerca de...", "Código escrito por MacroHEX")
 
 # Crear cajas de texto
 box_name = Entry(root, width=40)
