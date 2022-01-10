@@ -1,0 +1,53 @@
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>cbd2ef0c-74bb-446a-b188-93e4107e4d59</ProjectGuid>
+    <ProjectHome>.</ProjectHome>
+    <StartupFile>Programacion_I.py</StartupFile>
+    <SearchPath>
+    </SearchPath>
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <Name>Programacion_I</Name>
+    <RootNamespace>Programacion_I</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Programacion_I.py" />
+    <Compile Include="Tarea1\TP1.py" />
+    <Compile Include="Tarea2\Tarea2_Ejercicio1.py" />
+    <Compile Include="Tarea2\Tarea2_Ejercicio10.py" />
+    <Compile Include="Tarea2\Tarea2_Ejercicio2.py" />
+    <Compile Include="Tarea2\Tarea2_Ejercicio3.py" />
+    <Compile Include="Tarea2\Tarea2_Ejercicio4.py" />
+    <Compile Include="Tarea2\Tarea2_Ejercicio5.py" />
+    <Compile Include="Tarea2\Tarea2_Ejercicio6.py" />
+    <Compile Include="Tarea2\Tarea2_Ejercicio7.py" />
+    <Compile Include="Tarea2\Tarea2_Ejercicio8.py" />
+    <Compile Include="Tarea2\Tarea2_Ejercicio9.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Tarea1\" />
+    <Folder Include="Tarea2\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Tarea2\Tarea 2.pdf" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
+  <!-- Uncomment the CoreCompile target to enable the Build command in
+       Visual Studio and specify your pre- and post-build commands in
+       the BeforeBuild and AfterBuild targets below. -->
+  <!--<Target Name="CoreCompile" />-->
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+</Project>
