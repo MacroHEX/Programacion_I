@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>cbd2ef0c-74bb-446a-b188-93e4107e4d59</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Programacion_I.py</StartupFile>
+    <StartupFile>menu.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -33,7 +33,7 @@
     <Compile Include="Examen Final\Examen_Final_Ejercicio1.py" />
     <Compile Include="Examen Final\Examen_Final_Ejercicio2.py" />
     <Compile Include="Examen Final\Examen_Final_Ejercicio3.py" />
-    <Compile Include="Programacion_I.py" />
+    <Compile Include="menu.py" />
     <Compile Include="Tarea1\Tarea1.py" />
     <Compile Include="Tarea2\Tarea2_Ejercicio1.py" />
     <Compile Include="Tarea2\Tarea2_Ejercicio10.py" />
