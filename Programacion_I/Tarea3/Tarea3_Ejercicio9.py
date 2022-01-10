@@ -1,6 +1,3 @@
-#Lenguaje de Programacion I -Python
-#Prof. Lic. Miguel Dario Duarte Reyes
-#Alumno: Martin Enrique Medina Aveiro
 #Tarea 3 Ejercicio 9
 
 #defino las variables de tipo float para facilitar las operaciones más adelante
