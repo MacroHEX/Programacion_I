@@ -1,6 +1,3 @@
-#Lenguaje de Programacion I -Python
-#Prof. Lic. Miguel Dario Duarte Reyes
-#Alumno: Martin Enrique Medina Aveiro
 #Tarea 4 Ejercicio 4
 
 # Importo la libreria sqlite3
@@ -15,9 +12,9 @@ print ("Conexión exitosa.")
 c = db.cursor()
 
 # Creo una lista con datos para pasar a la tabla
-datos_familia = [   ('Luis Medina', 972578176),
-                    ('Edid Aveiro', 982996795),
-                    ('David Medina', 971251950),
+datos_familia = [   ('Loida Ainoa', 972578176),
+                    ('Jessica Damián', 982996795),
+                    ('Osvaldo Toni', 971251950),
                 ]
 
 # Añado varios datos a la tabla desde la lista datos_familia

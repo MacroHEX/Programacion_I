@@ -22,7 +22,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Programacion_I.py" />
-    <Compile Include="Tarea1\TP1.py" />
+    <Compile Include="Tarea1\Tarea1.py" />
     <Compile Include="Tarea2\Tarea2_Ejercicio1.py" />
     <Compile Include="Tarea2\Tarea2_Ejercicio10.py" />
     <Compile Include="Tarea2\Tarea2_Ejercicio2.py" />
@@ -33,13 +33,42 @@
     <Compile Include="Tarea2\Tarea2_Ejercicio7.py" />
     <Compile Include="Tarea2\Tarea2_Ejercicio8.py" />
     <Compile Include="Tarea2\Tarea2_Ejercicio9.py" />
+    <Compile Include="Tarea3\Tarea3_Ejercicio1.py" />
+    <Compile Include="Tarea3\Tarea3_Ejercicio10.py" />
+    <Compile Include="Tarea3\Tarea3_Ejercicio2.py" />
+    <Compile Include="Tarea3\Tarea3_Ejercicio3.py" />
+    <Compile Include="Tarea3\Tarea3_Ejercicio4.py" />
+    <Compile Include="Tarea3\Tarea3_Ejercicio5.py" />
+    <Compile Include="Tarea3\Tarea3_Ejercicio6.py" />
+    <Compile Include="Tarea3\Tarea3_Ejercicio7.py" />
+    <Compile Include="Tarea3\Tarea3_Ejercicio8.py" />
+    <Compile Include="Tarea3\Tarea3_Ejercicio9.py" />
+    <Compile Include="Tarea3\Tarea3_Parte2_Ejercicio1.py" />
+    <Compile Include="Tarea3\Tarea3_Parte2_Ejercicio2.py" />
+    <Compile Include="Tarea3\Tarea3_Parte2_Ejercicio3.py" />
+    <Compile Include="Tarea3\Tarea3_Parte2_Ejercicio4.py" />
+    <Compile Include="Tarea3\Tarea3_Parte2_Ejercicio5.py" />
+    <Compile Include="Tarea3\Tarea3_Parte2_Ejercicio6.py" />
+    <Compile Include="Tarea3\Tarea3_Parte2_Ejercicio7.py" />
+    <Compile Include="Tarea4\Tarea4_Ejercicio1.py" />
+    <Compile Include="Tarea4\Tarea4_Ejercicio2.py" />
+    <Compile Include="Tarea4\Tarea4_Ejercicio3.py" />
+    <Compile Include="Tarea4\Tarea4_Ejercicio4.py" />
+    <Compile Include="Tarea4\Tarea4_Ejercicio5.py" />
+    <Compile Include="Tarea4\Tarea4_Ejercicio6.py" />
+    <Compile Include="Tarea4\Tarea4_Ejercicio7.py" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Tarea1\" />
     <Folder Include="Tarea2\" />
+    <Folder Include="Tarea3\" />
+    <Folder Include="Tarea4\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Tarea2\Tarea 2.pdf" />
+    <Content Include="Tarea3\Tarea 3 2da Parte.pdf" />
+    <Content Include="Tarea3\Tarea 3.pdf" />
+    <Content Include="Tarea4\Tarea de la Clase 4.pdf" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in

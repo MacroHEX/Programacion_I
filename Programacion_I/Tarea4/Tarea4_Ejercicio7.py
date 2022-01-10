@@ -1,6 +1,3 @@
-#Lenguaje de Programacion I -Python
-#Prof. Lic. Miguel Dario Duarte Reyes
-#Alumno: Martin Enrique Medina Aveiro
 #Tarea 4 Ejercicio 7
 
 # Importo la libreria sqlite3

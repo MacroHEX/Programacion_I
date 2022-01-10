@@ -1,6 +1,3 @@
-#Lenguaje de Programacion I -Python
-#Prof. Lic. Miguel Dario Duarte Reyes
-#Alumno: Martin Enrique Medina Aveiro
 #Tarea 4 Ejercicio 3
 
 # Importo la libreria sqlite3
@@ -15,7 +12,7 @@ print ("Conexión exitosa.")
 c = db.cursor()
 
 # Añado un dato a la tabla
-c.execute("INSERT INTO mistelefono VALUES ('Martin Medina', 972254105)")
+c.execute("INSERT INTO mistelefono VALUES ('Felicia Justino', 972254105)")
 # Imprimo un mensaje para verificar que el codigo se ejecuto
 print ("Datos añadidos con exito")
 
