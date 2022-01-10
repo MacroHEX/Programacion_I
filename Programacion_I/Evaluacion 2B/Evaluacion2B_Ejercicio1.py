@@ -1,6 +1,3 @@
-#Lenguaje de Programacion I -Python
-#Prof. Lic. Miguel Dario Duarte Reyes
-#Alumno: Martin Enrique Medina Aveiro
 #Evaluación 2B  - Ejercicio 1
 
 # Importo las librerias tkinter para la interfaz grafica y sqlite3 para la base de datos
@@ -58,7 +55,7 @@ def inventario():
     
     # Creo una nueva ventana para la visualización
     inv = Tk()
-    inv.title("Inventario - Martin Medina")
+    inv.title("Inventario - MacroHEX")
     inv.geometry("350x250")
     inv.resizable(height = False, width = False)
     
@@ -89,11 +86,11 @@ def inventario():
 
 # Metodo para mostrar un cuadro acerca de....
 def about():
-    messagebox.showinfo("Acerca de....", "Código escrito por Martín Medina.\nEvaluación 2B - Ejercicio I")
+    messagebox.showinfo("Acerca de....", "Código escrito por MacroHEX.\nEvaluación 2B - Ejercicio I")
 
 # Creo mi ventana principal nombrandola root y bloqueo el redimensionamiento
 root = Tk()
-root.title("Inventario - Martin Medina")
+root.title("Inventario - MacroHEX")
 root.geometry("200x250")
 root.resizable(height = False, width = False)
 
