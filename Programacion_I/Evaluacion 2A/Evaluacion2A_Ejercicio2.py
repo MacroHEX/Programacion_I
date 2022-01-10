@@ -1,6 +1,3 @@
-#Lenguaje de Programacion I -Python
-#Prof. Lic. Miguel Dario Duarte Reyes
-#Alumno: Martin Enrique Medina Aveiro
 #Evaluación 2A  - Ejercicio 2
 #Escribir una clase en python que revierta una cadena de palabras
 
@@ -19,7 +16,7 @@ class Revertir:
         return " ".join(self.cadena.split(" ")[::-1])
 
 # Asigno la clase Revertir a la variable palabra con la cadena
-palabra = Revertir("Universidad Nihon")
+palabra = Revertir("Universidad Joser")
 
 # Imprimo llamando a los metodos
 print("Entrada:", palabra.separacion())

@@ -1,6 +1,3 @@
-#Lenguaje de Programacion I -Python
-#Prof. Lic. Miguel Dario Duarte Reyes
-#Alumno: Martin Enrique Medina Aveiro
 #Evaluación 2A  - Ejercicio 1
 #Escribir una clase en python que convierta un número entero ingresado por teclado a número romano y que luego lo muestre por pantalla
 
