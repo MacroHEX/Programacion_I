@@ -21,6 +21,18 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Base de Datos\RecuperatorioV1.py" />
+    <Compile Include="Base de Datos\RecuperatorioV2.py" />
+    <Compile Include="Database GUI\gui.py" />
+    <Compile Include="Evaluacion 1B\Evaluacion1B_Ejercicio1.py" />
+    <Compile Include="Evaluacion 1B\Evaluacion1B_Ejercicio2.py" />
+    <Compile Include="Evaluacion 1B\Evaluacion1B_Ejercicio3.py" />
+    <Compile Include="Evaluacion 2A\Evaluacion2A_Ejercicio1.py" />
+    <Compile Include="Evaluacion 2A\Evaluacion2A_Ejercicio2.py" />
+    <Compile Include="Evaluacion 2B\Evaluacion2B_Ejercicio1.py" />
+    <Compile Include="Examen Final\Examen_Final_Ejercicio1.py" />
+    <Compile Include="Examen Final\Examen_Final_Ejercicio2.py" />
+    <Compile Include="Examen Final\Examen_Final_Ejercicio3.py" />
     <Compile Include="Programacion_I.py" />
     <Compile Include="Tarea1\Tarea1.py" />
     <Compile Include="Tarea2\Tarea2_Ejercicio1.py" />
@@ -59,6 +71,12 @@
     <Compile Include="Tarea4\Tarea4_Ejercicio7.py" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="Base de Datos\" />
+    <Folder Include="Database GUI\" />
+    <Folder Include="Evaluacion 1B\" />
+    <Folder Include="Evaluacion 2A\" />
+    <Folder Include="Evaluacion 2B\" />
+    <Folder Include="Examen Final\" />
     <Folder Include="Tarea1\" />
     <Folder Include="Tarea2\" />
     <Folder Include="Tarea3\" />
