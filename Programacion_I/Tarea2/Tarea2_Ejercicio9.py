@@ -1,6 +1,3 @@
-#Lenguaje de Programacion I -Python
-#Prof. Lic. Miguel Dario Duarte Reyes
-#Alumno: Martin Enrique Medina Aveiro
 #Tarea 2 Ejercicio 9
 PAYASOS_PESO = 112          #constante
 MUNHECAS_PESO = 75

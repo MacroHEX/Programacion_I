@@ -1,6 +1,3 @@
-#Lenguaje de Programacion I -Python
-#Prof. Lic. Miguel Dario Duarte Reyes
-#Alumno: Martin Enrique Medina Aveiro
 #Tarea 2 Ejercicio 6
 horas_trabajadas = int(input("Introduzca horas trabajadas: "))
 coste_hora = int(input("Introduzca el coste (en guaranies) por hora: "))
