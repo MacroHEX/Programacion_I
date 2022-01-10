@@ -1,6 +1,3 @@
-#Lenguaje de Programacion I -Python
-#Prof. Lic. Miguel Dario Duarte Reyes
-#Alumno: Martin Enrique Medina Aveiro
 #EXamen Final - Ejercicio 2
 
 # Escribir un programa que realice las siguientes acciones. 
